@@ -1,5 +1,5 @@
 <br>
-<div class="pt-32 flex flex-col justify-center items-center">
+<div class="pt-4 flex flex-col justify-center items-center">
     <div class="text-gray-600 body-font">
     <div class="container px-5 py-2">
         <div class="flex flex-col text-center w-full mb-20">
