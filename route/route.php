@@ -8,7 +8,8 @@ $route_url = [
     'about' => 'controllers/AboutController.php',
     'contact' => 'controllers/ContactController.php',
     'pricing' => 'controllers/PortfolioController.php',
-    '404' => 'controllers/404tController.php',
+    'blog' => 'controllers/BlogController.php',
+    '404' => 'controllers/404Controller.php',
 ];
 
 function routingFun($route_url, $uri){
