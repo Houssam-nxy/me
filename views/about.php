@@ -11,7 +11,7 @@
     <div class="flex justify-center">
       <div class="p-2 w-96">
         <div class="h-full flex items-center border-gray-800 border p-4 rounded-lg bg-white">
-          <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/images/img.jpeg">
+          <img alt="team" class="w-16 h-16 bg-gray-100 object-cover object-center flex-shrink-0 rounded-full mr-4" src="assets/images/img.png">
           <div class="flex-grow">
             <h2 class="text-black title-font font-medium">Houssam El khesassi</h2>
             <a href="https://github.com/Houssam-nxy">
